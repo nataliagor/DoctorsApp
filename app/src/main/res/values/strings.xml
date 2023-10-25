@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DoctorsApp</string>
+    <string name="empty">Empty</string>
+
+    <string name="appointment_details">Appointment details</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="client_data">Client data</string>
+    <string name="name">Name</string>
+    <string name="pesel">Pesel</string>
+    <string name="birth_date">Birth date</string>
+    <string name="gender">Gender</string>
+
+    <string name="new_appointment">New appointment</string>
+    <string name="online">Online</string>
+    <string name="client">Client</string>
+
+    <string name="log_in">Log in</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="click_to_enter_password">Click to enter password</string>
+    <string name="click_to_enter_login">Click to enter login</string>
+    <string name="client_details">Client details</string>
+    <string name="surname">Surname</string>
+    <string name="client_list">Client List</string>
+    <string name="my_appointments">My appointments</string>
+    <string name="my_data">My data</string>
+    <string name="prescription_list">Prescription list</string>
+</resources>
